@@ -9,20 +9,20 @@
         "centovacast",
         "api"
     ],
-    "homepage": "https://github.com/SiegSB/radiorush",
+    "homepage": "https://github.com/siegsb/radiorush",
     "license": "MIT",
     "authors": [
     {
         "name": "Paris Niarfe Baltazar Salguero",
         "email": "sieg.sb@gmail.com",
-        "homepage": "http://www.pbaltazar.com",
+        "homepage": "https://www.pbaltazar.com",
         "role": "Developer"
     }
     ],
     "support": {
         "email": "sieg.sb@gmail.com",
-        "issues": "https://github.com/SiegSB/radiorush/issues",
-        "source": "https://github.com/SiegSB/radiorush/releases"
+        "issues": "https://github.com/siegsb/radiorush/issues",
+        "source": "https://github.com/siegsb/radiorush/releases"
     },
     "require": {
         "php": ">=5.4"
